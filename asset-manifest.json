@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Ksenya18/goit-react-hw-01-components.git/static/css/main.7acaea2f.css",
+    "main.js": "/Ksenya18/goit-react-hw-01-components.git/static/js/main.ef88981f.js",
+    "index.html": "/Ksenya18/goit-react-hw-01-components.git/index.html",
+    "main.7acaea2f.css.map": "/Ksenya18/goit-react-hw-01-components.git/static/css/main.7acaea2f.css.map",
+    "main.ef88981f.js.map": "/Ksenya18/goit-react-hw-01-components.git/static/js/main.ef88981f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.ef88981f.js"
+  ]
+}
